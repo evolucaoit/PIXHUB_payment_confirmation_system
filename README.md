@@ -27,8 +27,6 @@ O **PIXHUB** também oferece a geração de comprovantes impressos, ideais para 
 
 ### 🔍 100 % integrado de forma oficial com a API do Mercado Pago
 
-![Logo Mercado Pago](https://github.com/evolucaoit/PIXHUB_payment_confirmation_system/blob/main/logo-mp-vertical.png?raw=true)
-
 O **PIXHUB** é alimentado pela robustez e confiabilidade do Mercado Pago, garantindo uma solução de pagamento segura e eficiente.
 
 ### 📊 Exemplo de JSON de Evento de Pagamento
