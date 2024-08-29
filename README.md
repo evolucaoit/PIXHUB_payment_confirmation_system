@@ -47,7 +47,7 @@ Para mais informações sobre o PIXHUB e para discutir possíveis colaborações
 - [LinkedIn](https://br.linkedin.com/in/itilmgf) 💼
 - [GitHub](https://github.com/chaos4455) 🖥️
 
-**Nota:** O código fonte do PIXHUB é fechado e está disponível para visualização como um portfólio de minhas habilidades e conhecimento em micro serviços e desenvolvimento backend. O código é licenciável mediante solicitação.
+**Nota:** O código fonte do PIXHUB é fechado e está disponível para visualização mediante solicitação. O código é licenciável mediante contrato de fornecimento de software.
 
 ---
 
