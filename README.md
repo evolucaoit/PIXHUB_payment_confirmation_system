@@ -25,9 +25,6 @@ A integração com dispositivos móveis permite que os usuários realizem pagame
 
 O **PIXHUB** também oferece a geração de comprovantes impressos, ideais para lojas, restaurantes e outros estabelecimentos que necessitam de registros físicos de transações.
 
-### 🔍 100 % integrado de forma oficial com a API do Mercado Pago
-
-O **PIXHUB** é alimentado pela robustez e confiabilidade do Mercado Pago, garantindo uma solução de pagamento segura e eficiente.
 
 ### 📊 Exemplo de JSON de Evento de Pagamento
 
