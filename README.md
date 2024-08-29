@@ -3,6 +3,46 @@
 ## Visão Geral 🌐
 
 **PIXHUB** é uma solução robusta e escalável que oferece um sistema de microserviços dedicado ao gerenciamento e processamento de transações financeiras através das APIs do Mercado Pago e Mercado Livre. Desenvolvido em Python e .NET Core 8, o PIXHUB é projetado para atender às necessidades complexas de empresas que operam no ambiente Mercado Livre e Mercado Pago, com funcionalidades abrangentes para controle e emissão de comprovantes de pagamento.
+## PIXHUB: Solução Completa de Pagamentos e Automação 💳📊
+
+O **PIXHUB** é um sistema inovador que transforma a maneira como as empresas lidam com transações financeiras. Desenvolvido para atender às necessidades do mercado atual, este projeto é um exemplo de excelência em automação e integração de pagamentos. Aqui estão alguns recursos e imagens que destacam o poder e a flexibilidade do **PIXHUB**:
+
+### 📱 Arte Promocional do Mercado Pago
+
+![Arte Promocional do Mercado Pago](https://github.com/evolucaoit/PIXHUB_payment_confirmation_system/blob/main/Imagem-mostrando-o-logo-do-Mercado-Pago.png?raw=true)
+
+Esta imagem mostra como o **PIXHUB** se integra perfeitamente com o Mercado Pago, oferecendo uma experiência de pagamento moderna e eficiente.
+
+### 🤳 Integração com Celular
+
+![Mão Segurando o Celular](https://github.com/evolucaoit/PIXHUB_payment_confirmation_system/blob/main/Mercado-Pago%20(1).jpg?raw=true)
+
+A integração com dispositivos móveis permite que os usuários realizem pagamentos e transações de forma rápida e segura, diretamente do celular.
+
+### 🧾 Exemplo de Comprovante Impresso
+
+![Comprovante Impresso](https://github.com/evolucaoit/PIXHUB_payment_confirmation_system/blob/main/SumatraPDF_2bMW9CL9OT.png?raw=true)
+
+O **PIXHUB** também oferece a geração de comprovantes impressos, ideais para lojas, restaurantes e outros estabelecimentos que necessitam de registros físicos de transações.
+
+### 🔍 Logo Grande do Mercado Pago
+
+![Logo Mercado Pago](https://github.com/evolucaoit/PIXHUB_payment_confirmation_system/blob/main/logo-mp-vertical.png?raw=true)
+
+O **PIXHUB** é alimentado pela robustez e confiabilidade do Mercado Pago, garantindo uma solução de pagamento segura e eficiente.
+
+### 📊 Exemplo de JSON de Evento de Pagamento
+
+![Exemplo de JSON](https://github.com/evolucaoit/PIXHUB_payment_confirmation_system/blob/main/payment_86376052394_Pix_com_Chave.json?raw=true)
+
+O sistema coleta dados detalhados sobre as transações, permitindo automações precisas e relatórios detalhados. Aqui está um exemplo de JSON de um evento de pagamento, que mostra como o **PIXHUB** registra e processa informações cruciais.
+
+### O Que o **PIXHUB** Oferece 🚀💡
+
+- **Integração Completa**: Conexão com APIs do Mercado Pago e Mercado Livre para processar pagamentos de diversos tipos, incluindo PIX, QR Code, cartões, boletos e muito mais.
+- **Automação de Transações**: Geração e controle automatizados de pagamentos e cobranças.
+- **Emissão de Comprovantes**: Envio de comprovantes via e-mail, WhatsApp ou impressos, adaptados às necessidades do seu negócio.
+- **Análise e Monitoramento**: Coleta e análise de dados de transações para gerar insights valiosos e criar automações eficientes.
 
 ## Arquitetura dos Microserviços 🏗️
 
